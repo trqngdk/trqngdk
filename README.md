@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoa Tran</h1>
-<h3 align="center">A cybersecurity passionate high school student from Vietnam</h3>
+<h3 align="center">Learning new languages and cybersecurity related stuff is what I am passionate about.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trqngdk&label=Profile%20views&color=72b01d&style=flat" alt="trqngdk" /> </p>
 
